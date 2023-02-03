@@ -26,6 +26,7 @@ I am a student of the Faculty of Mechanical Engineering, and from an early age, 
 
 ### 📊 Stats
 <br />
+
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=glisovic01&show_icons=true&theme=gotham)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
