@@ -4,7 +4,7 @@
 
 I am a student of the Faculty of Mechanical Engineering, and from an early age, I have been interested in programming and working in the field of technology. I like to learn new things and give my best in every endeavor. I have experience creating websites and editing various video clips for clients on YouTube. Teamwork is very important to me and I believe that clear communication is key to achieving good business cooperation. Organization and systematicity are one of my most important qualities, both in myself and in my colleagues.
 
--
+--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
