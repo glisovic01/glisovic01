@@ -30,7 +30,6 @@ I'm a front-end developer and content creator building my version of the digital
 <br />
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=glisovic01&show_icons=true&theme=gotham)
-
 <br />
 
 #
