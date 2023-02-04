@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-A front-end developer and content creator building my version of the digital world one step at a time.
+A front-end developer and content creator building his version of the digital world one step at a time.
 
 #
 
