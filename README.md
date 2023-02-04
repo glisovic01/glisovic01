@@ -31,7 +31,6 @@ I'm a front-end developer and content creator building my version of the digital
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=glisovic01&show_icons=true&theme=gotham)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 <br />
 
 #
