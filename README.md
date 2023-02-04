@@ -13,7 +13,7 @@ A front-end developer and content creator building his version of the digital wo
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;"
      src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;"
-     src="https://cdn.worldvectorlogo.com/logos/css-1.svg" />
+     src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
      src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
 <img align="left" alt="Wordpress" width="30px" style="padding-right:10px;"
