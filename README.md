@@ -30,6 +30,8 @@ A front-end developer and content creator building his version of the digital wo
 <br />
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=glisovic01&show_icons=true&theme=gotham)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=glisovic01&theme=gotham&border_radius=4.5) -->
 <br />
 
 #
