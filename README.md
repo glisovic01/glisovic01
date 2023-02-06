@@ -3,7 +3,6 @@
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 A front-end developer and content creator building his version of the digital world one step at a time.
-
 #
 
 ### 🧰 Languages and Tools
@@ -29,9 +28,7 @@ A front-end developer and content creator building his version of the digital wo
 ### 📊 Stats
 <br />
 
-![Glisovic's GitHub stats](https://github-readme-stats.vercel.app/api?username=glisovic01&show_icons=true&theme=gotham)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=glisovic01&theme=gotham&border_radius=4.5) -->
+![Glisovic's GitHub stats](https://github-readme-stats.vercel.app/api?username=glisovic01&show_icons=true&theme=transparent)
 <br />
 
 #
