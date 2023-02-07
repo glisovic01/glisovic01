@@ -28,7 +28,7 @@ A front-end developer and content creator building his version of the digital wo
 ### 📊 Stats
 <br />
 
-![Glisovic's GitHub stats](https://github-readme-stats.vercel.app/api?username=glisovic01&show_icons=true&title_color=6000cc&icon_color=7800e0&text_color=828282&bg_color=00000000&border_color=00000000)
+![Glisovic's GitHub stats](https://github-readme-stats.vercel.app/api?username=glisovic01&show_icons=true&title_color=2aa889&icon_color=7800e0&text_color=828282&bg_color=00000000&border_color=00000000)
 <br />
 
 #
