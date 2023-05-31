@@ -16,7 +16,7 @@ A front-end developer and content creator building his version of the digital wo
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
      src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
 <img align="left" alt="Wordpress" width="30px" style="padding-right:10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+     src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;"
      src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" />
 <img align="left" alt="Elementor" width="30px" style="padding-right:10px;"
