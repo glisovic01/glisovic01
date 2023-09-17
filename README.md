@@ -20,7 +20,7 @@ A front-end developer and content creator building his version of the digital wo
 <img align="left" alt="Python" width="30px" style="padding-right:10px;"
      src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" />
 <img align="left" alt="Elementor" width="30px" style="padding-right:10px;"
-     src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/elementor-icon.svg" />
+     src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/elementor-icon.svg" />
 <br />
 
 #
