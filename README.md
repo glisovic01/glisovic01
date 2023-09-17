@@ -9,17 +9,17 @@ A front-end developer and content creator building his version of the digital wo
 <br />
 
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;"
+<img align="left" alt="HTML" width="30px" style="padding-right:20px;"
      src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;"
+<img align="left" alt="CSS" width="30px" style="padding-right:20px;"
      src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;"
+<img align="left" alt="JavaScript" width="30px" style="padding-right:20px;"
      src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
-<img align="left" alt="Wordpress" width="30px" style="padding-right:10px;"
+<img align="left" alt="Wordpress" width="30px" style="padding-right:20px;"
      src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;"
+<img align="left" alt="Python" width="30px" style="padding-right:20px;"
      src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" />
-<img align="left" alt="Elementor" width="30px" style="padding-right:10px;"
+<img align="left" alt="Elementor" width="30px" style="padding-right:20px;"
      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/elementor-icon.svg" />
 <br />
 
